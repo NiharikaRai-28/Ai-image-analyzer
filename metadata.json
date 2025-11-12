@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Analyzer",
+  "description": "An application for users to upload images of pencils or trees, have them analyzed by AI for sharpness and size, and view the results in a comparative bar graph. Features a free trial system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
